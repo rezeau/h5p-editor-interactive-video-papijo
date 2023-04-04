@@ -123,6 +123,21 @@
       "minorVersion": 0
     },
     {
+      "machineName": "H5P.DragQuestion",
+      "majorVersion": 1,
+      "minorVersion": 14
+    },
+    {
+      "machineName": "H5P.MarkTheWords",
+      "majorVersion": 1,
+      "minorVersion": 11
+    },
+    {
+      "machineName": "H5P.DragText",
+      "majorVersion": 1,
+      "minorVersion": 10
+    },
+    {
       "machineName": "H5P.DragQuestionPapiJo",
       "majorVersion": 1,
       "minorVersion": 13
